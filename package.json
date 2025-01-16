@@ -1,0 +1,12 @@
+{
+  "name": "comp1023-lab-3-simple-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
