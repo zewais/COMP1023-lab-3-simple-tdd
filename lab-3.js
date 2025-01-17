@@ -51,7 +51,8 @@ const ceiling = (a) => {
 
 //export functions
 //Please do not change the following line.
-export {
+
+module.exports = {
   add,
   subtract,
   multiply,
@@ -62,5 +63,3 @@ export {
   floor,
   ceiling,
 };
-
-//NOTE: if export doesn't work, use module.exports = {add, subtract, multiply, divide, modulas, power, square, floor, ceiling};
