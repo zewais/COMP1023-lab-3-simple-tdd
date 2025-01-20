@@ -12,7 +12,7 @@ const {
   floor,
   ceiling,
   modulas,
-} = require("../lab-3-starter.js");
+} = require("../lab-3.js");
 
 //test cases
 describe("Lab-3", () => {
